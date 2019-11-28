@@ -1,5 +1,10 @@
 body {
     background-color: #fff;
+    background-image:url('15749009012841655475653170445540.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%
+
 }
 
 .no-display {
